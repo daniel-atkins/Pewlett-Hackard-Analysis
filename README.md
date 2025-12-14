@@ -6,13 +6,13 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 ## Results
 
--Our first table "retirement_titles" gives us a list of all the titles of employees who were born between January 1, 1952 and December 31, 1955. Unfortunately, this list includes multiple titles per employee and also includes individuals who are no longer with the company.
+Our first table "retirement_titles" gives us a list of all the titles of employees who were born between January 1, 1952 and December 31, 1955. Unfortunately, this list includes multiple titles per employee and also includes individuals who are no longer with the company.
 
--Our second table "unique_titles" gives us a list which contains the most recent title of each employee. It also has the number of retirement-age employees by most recent job title and includes only current employees.
+Our second table "unique_titles" gives us a list which contains the most recent title of each employee. It also has the number of retirement-age employees by most recent job title and includes only current employees.
 
--Our third table "mentorship_eligibility" gives us a list of current employees who were born between January 1, 1965 and December 31, 1965.
+Our third table "mentorship_eligibility" gives us a list of current employees who were born between January 1, 1965 and December 31, 1965.
 
--Our fourth table "retiring_titles" gives us a headcount of potential retirees by title.
+Our fourth table "retiring_titles" gives us a headcount of potential retirees by title.
 
 ![image](https://user-images.githubusercontent.com/115741212/204955591-70b9df28-53ce-4eb3-80bf-4a038ccaa79e.png)
 
